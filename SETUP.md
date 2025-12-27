@@ -14,7 +14,7 @@ Step-by-step instructions to get the Advanced Research Agent running on your sys
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/advanced-research-agent.git
+git clone https://github.com/inakiLakunza/advanced-research-agent.git
 cd advanced-research-agent
 ```
 
@@ -170,8 +170,8 @@ Before using the agent, verify:
 
 ## Next Steps
 
-1. **Read the README**: `README.md` for feature overview
-2. **Try Examples**: `TEST_EXAMPLES.md` for tested queries
+1. **Read the README**: `README.md` for feature overview and working examples
+2. **Try Examples** Check `README.md` , [outputs](outputs/) folder or `TEST_EXAMPLES.md` for tested queries
 3. **Customize**: Modify `tools.py` to add your own tools
 4. **Experiment**: Try complex multi-tool workflows
 
@@ -215,7 +215,7 @@ rm -rf advanced-research-agent
 
 If you encounter issues:
 
-1. Check [TEST_EXAMPLES.md](TEST_EXAMPLES.md) for working examples
+1. Check real examples in [README.md](README.md) or in [outputs](outputs/), otherwise there are nice ideas in [TEST_EXAMPLES.md](TEST_EXAMPLES.md)
 2. Review error messages carefully
 3. Ensure API key is valid and has credits
 4. Check internet connection (for web searches)
@@ -268,4 +268,4 @@ if not os.path.exists("my_outputs"):  # Change folder name
 
 **Setup complete!** 🎉 You're ready to use the Advanced Research Agent.
 
-For usage examples, see [TEST_EXAMPLES.md](TEST_EXAMPLES.md).
+For usage examples, see real examples in [README.md](README.md) or in [outputs](outputs/), otherwise there are nice ideas in [TEST_EXAMPLES.md](TEST_EXAMPLES.md).
