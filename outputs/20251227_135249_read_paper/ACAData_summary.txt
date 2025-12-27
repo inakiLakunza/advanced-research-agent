@@ -1,0 +1,39 @@
+--- Research Output ---
+Timestamp: 2025-12-27 13:53:03
+
+Title: ACAData: Parallel Dataset of Academic Data for Machine Translation
+
+Authors:
+- Iñaki Lacunza
+- Javier Garcia Gilabert
+- Francesca De Luca Fornaciari
+- Javier Aula-Blasco
+- Aitor Gonzalez-Agirre
+- Maite Melero
+- Marta Villegas
+
+Affiliation:
+- Barcelona Supercomputing Center (BSC)
+
+Contact Emails:
+- inaki.lacunza@bsc.es
+- javier.garcia1@bsc.es
+- fdelucaf@bsc.es
+
+Abstract:
+We present ACAData, a high-quality parallel dataset for academic translation, that consists of two subsets: ACAD-train, which contains approximately 1.5 million human-generated paragraph pairs across 12 languages, and ACAD-bench, a curated evaluation set of almost 6,000 translations covering 12 directions. To validate its usefulness, we fine-tune two Large Language Models (LLMs) on ACAD-train and benchmark them on ACAD-bench against specialized machine-translation systems, general-purpose, open-weight LLMs, and several large-scale proprietary models. Experimental results demonstrate that fine-tuning on ACAD-train leads to improvements in academic translation quality by +6.1 and +12.4 d-BLEU points on average for 7B and 2B models respectively, while also improving long-context translation in a general domain by up to 24.9% when translating out of English. The fine-tuned top-performing model surpasses the best proprietary and open-weight models in the academic translation domain. By releasing ACAD-train, ACAD-bench, and the fine-tuned models, we provide the community with a valuable resource to advance research in the academic domain and long-context translation.
+
+Keywords:
+- Academic Translation
+- Multilingual Dataset
+- Machine Translation
+- Parallel Corpus
+
+Key Points:
+1. Introduction of ACAData, a parallel dataset for academic translation.
+2. Two subsets: ACAD-train (1.5 million paragraph pairs) and ACAD-bench (6,000 translations).
+3. Fine-tuning of LLMs shows significant improvements in translation quality.
+4. Release of dataset and models aims to support research in academic translation.
+
+==================================================
+

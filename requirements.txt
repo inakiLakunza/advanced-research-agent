@@ -1,0 +1,25 @@
+# Core LangChain dependencies
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-openai>=0.0.5
+langgraph>=0.0.20
+
+# Tools and utilities
+wikipedia>=1.4.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+duckduckgo-search>=4.0.0
+
+# Data analysis and visualization
+numpy>=1.24.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+scipy>=1.11.0
+
+# PDF processing
+PyPDF2>=3.0.0
+
+# Web requests
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0

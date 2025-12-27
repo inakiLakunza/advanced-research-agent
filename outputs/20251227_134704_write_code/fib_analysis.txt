@@ -1,0 +1,18 @@
+--- Research Output ---
+Timestamp: 2025-12-27 13:47:17
+
+Fibonacci Numbers up to 1000:
+[0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987]
+
+Distribution Analysis:
+  • Q1 (25th percentile): 3.00
+  • Q2 (Median): 21.00
+  • Q3 (75th percentile): 144.00
+  • IQR: 141.00
+
+Plots:
+1. Line Plot: fibonacci_line_plot.png
+2. Histogram: fibonacci_histogram.png
+
+==================================================
+

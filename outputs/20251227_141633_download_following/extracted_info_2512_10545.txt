@@ -1,0 +1,22 @@
+--- Research Output ---
+Timestamp: 2025-12-27 14:16:46
+
+Authors:
+1. Iñaki Lacunza, Language Technologies Lab, Barcelona Supercomputing Center, Barcelona, Spain, inaki.lacunza@bsc.es
+2. José Javier Saiz, Language Technologies Lab, Barcelona Supercomputing Center, Barcelona, Spain, jose.saiz@bsc.es
+3. Alexander Shvets, Language Technologies Lab, Barcelona Supercomputing Center, Barcelona, Spain, aleksandr.shvets@bsc.es
+4. Aitor Gonzalez-Agirre, Language Technologies Lab, Barcelona Supercomputing Center, Barcelona, Spain, aitor.gonzalez@bsc.es
+5. Marta Villegas, Language Technologies Lab, Barcelona Supercomputing Center, Barcelona, Spain, 0000-0003-0711-0029
+
+Abstract:
+Current large language models (LLMs) are trained on massive amounts of text data, primarily from a few dominant languages. Studies suggest that this over-reliance on high-resource languages, such as English, hampers LLM performance in mid- and low-resource languages. To mitigate this problem, we propose to (i) optimize the language distribution by training a small proxy model within a domain-reweighing DoGE algorithm that we extend to XDoGE for a multilingual setup, and (ii) rescale the data and train a full-size model with the established language weights either from scratch or within a continual pre-training phase (CPT). We target six languages possessing a variety of geographic and intra- and inter-language-family relations, namely, English and Spanish (high-resource), Portuguese and Catalan (mid-resource), Galician and Basque (low-resource). We experiment with Salamandra-2b, which is a promising model for these languages. We investigate the effects of substantial data repetition on minor languages and under-sampling on dominant languages using the IberoBench framework for quantitative evaluation. Finally, we release a new promising IberianLLM-7B-Instruct model centering on Iberian languages and English that we pretrained from scratch and further improved using CPT with the XDoGE weights.
+
+Key Points:
+- Optimization of language distribution in LLMs.
+- Targeting diverse language resources.
+- Introduction of the IberianLLM-7B-Instruct model.
+- Effects of data repetition and under-sampling on language models.
+- Utilization of the IberoBench framework for evaluation.
+
+==================================================
+

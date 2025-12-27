@@ -1,0 +1,23 @@
+--- Research Output ---
+Timestamp: 2025-12-27 14:18:39
+
+Machine Learning Research Report:
+
+---
+
+**Machine Learning Overview**
+Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions. Within a subdiscipline in machine learning, advances in the field of deep learning have allowed neural networks, a class of statistical algorithms, to surpass many previous machine learning approaches in performance.
+
+---
+
+**Neural Network Neurons Calculation**
+Total neurons in a 4-layer neural network with sizes [784, 256, 128, 10]: 1178
+
+---
+
+**Neural Network Layer Sizes Visualization**
+Bar chart of the layer sizes saved as 'neural_network_layer_sizes.png'.
+
+
+==================================================
+

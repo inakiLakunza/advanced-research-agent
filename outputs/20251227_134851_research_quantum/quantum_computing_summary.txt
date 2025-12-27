@@ -1,0 +1,7 @@
+--- Research Output ---
+Timestamp: 2025-12-27 13:49:00
+
+A quantum computer is a (real or theoretical) computer that exploits superposed and entangled states. Quantum computers can be viewed as sampling from quantum systems that evolve in ways that may be described as operating on an enormous number of possibilities simultaneously, though still subject to strict computational constraints. By contrast, ordinary ("classical") computers operate according to deterministic rules.
+
+==================================================
+

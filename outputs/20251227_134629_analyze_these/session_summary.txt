@@ -1,0 +1,27 @@
+Agent Session Summary
+==================================================
+
+Timestamp: 2025-12-27 13:46:32
+
+User Query:
+Analyze these test scores: [85, 92, 78, 95, 88, 76, 91, 89] and show statistics
+
+==================================================
+
+Agent Response:
+I analyzed the provided test scores: [85, 92, 78, 95, 88, 76, 91, 89]. Here are the statistical summaries:
+
+- **Count**: 8
+- **Mean**: 86.75
+- **Median**: 88.50
+- **Standard Deviation**: 6.71
+- **Minimum**: 76
+- **Maximum**: 95
+- **Range**: 19
+
+If you need further analysis or visualization, please let me know!
+
+==================================================
+
+Tool Calls: 1
+Output Folder: outputs/20251227_134629_analyze_these

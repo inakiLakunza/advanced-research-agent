@@ -1,0 +1,36 @@
+Agent Session Summary
+==================================================
+
+Timestamp: 2025-12-27 13:53:11
+
+User Query:
+Read the paper available in this local link: inputs/2510.12621v2.pdf and make a summary of it: authors, abstract, key points, etc. Save all the info into a summary file
+
+==================================================
+
+Agent Response:
+I extracted the content from the PDF titled "ACAData: Parallel Dataset of Academic Data for Machine Translation." Here’s a summary of the key information:
+
+- **Authors**: Iñaki Lacunza, Javier Garcia Gilabert, Francesca De Luca Fornaciari, Javier Aula-Blasco, Aitor Gonzalez-Agirre, Maite Melero, Marta Villegas
+- **Affiliation**: Barcelona Supercomputing Center (BSC)
+- **Contact Emails**: 
+  - inaki.lacunza@bsc.es
+  - javier.garcia1@bsc.es
+  - fdelucaf@bsc.es
+
+- **Abstract**: The paper presents ACAData, a high-quality parallel dataset for academic translation, consisting of two subsets: ACAD-train (1.5 million human-generated paragraph pairs across 12 languages) and ACAD-bench (nearly 6,000 translations). The authors fine-tune two Large Language Models (LLMs) on ACAD-train, showing significant improvements in academic translation quality. The dataset and models are released to support research in the academic domain and long-context translation.
+
+- **Keywords**: Academic Translation, Multilingual Dataset, Machine Translation, Parallel Corpus
+
+- **Key Points**:
+  1. Introduction of ACAData for academic translation.
+  2. Two subsets: ACAD-train and ACAD-bench.
+  3. Fine-tuning of LLMs results in significant translation quality improvements.
+  4. The release of the dataset and models aims to advance research.
+
+I saved all this information into a text file named **ACAData_summary.txt** in the designated output folder.
+
+==================================================
+
+Tool Calls: 4
+Output Folder: outputs/20251227_135249_read_paper

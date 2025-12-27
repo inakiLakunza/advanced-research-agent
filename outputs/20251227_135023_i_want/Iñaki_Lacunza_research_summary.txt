@@ -1,0 +1,20 @@
+--- Research Output ---
+Timestamp: 2025-12-27 13:50:38
+
+Researcher Name: Iñaki Lacunza
+
+Sources:
+1. **Search Tool** - Searched for Iñaki Lacunza as a researcher. Found multiple mentions, including collaborations on research papers and projects in machine translation and visual language models.
+2. **Wikipedia** - Retrieved a brief mention of Iñaki Lacunza in relation to his work on projects and publications, including a reference to the EURAXESS initiative for talent mobility in research.
+3. **Additional Search** - Found specific publications and projects by Iñaki Lacunza, particularly related to academic data for machine translation and visual language models, with co-authors noted in the papers.
+
+Notable Publications:
+- ACADATA: Parallel Dataset of Academic Data for Machine Translation
+- Breaking Language Barriers in Visual Language Models via Multilingual Textual Regularization
+- XDoGE: Multilingual Data Reweighting to Enhance Language Inclusivity in LLMs
+
+These publications can be found on platforms like arXiv for further details.
+
+
+==================================================
+
